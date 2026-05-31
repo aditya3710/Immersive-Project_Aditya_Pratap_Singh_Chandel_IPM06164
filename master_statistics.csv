@@ -1,0 +1,25 @@
+Metric,Value,Source
+Reddit AI Licensing Revenue (2025),$140M,Reddit Q4 2025 Earnings
+Reddit Total Revenue (2025),"$2,200M",Reddit Q4 2025 Earnings
+Creator AI Payout (all years 2020–2025),$0,Reddit S-1 + Contributor Programme
+Reddit Revenue CAGR (2020–2025),85.6%,Author Calculation
+Spotify Revenue (2025),"€17,186M",Spotify 20-F FY2025 SEC.gov
+Spotify Royalties (2025),"€11,690M",Spotify 20-F FY2025 SEC.gov
+Spotify Royalty Share (2025),68.0%,Spotify 20-F FY2025 SEC.gov
+Spotify Revenue–Royalty Correlation (r),0.987 (near-perfect),Spotify 20-F 2020–2025
+Reddit AI Revenue–Creator Pay Correlation,0.000 (undefined — constant zero),Reddit S-1 + 10-Q 2020–2025
+Spotify Regression Slope,€0.6127M per €1M revenue,Spotify 20-F 2020–2025
+Creator Economy Gini Coefficient,0.738,Praneeth & Tamizharasi (2025)
+Reddit AI Licensing Gini,1.000 (mathematical maximum),Author Calculation
+Creator Economy CAGR (2020–2030),28.4%,MarketsandMarkets (2024)
+"Projected Unclaimed Dividend (Base, 2025–2030)",$1.79B,Author Projection (30% CAGR)
+DARA Annual Pool (5% fee),$155M/year,Author Calculation
+Per-post Reddit AI value,$0.1300/post,$130M ÷ 1B posts
+Survey: Mean Fairness Score (actual n=30),4.57/7 (SD=1.48),Primary Survey Apr 2026
+Survey: Mean Fairness Score (full n=100),4.45/7 (SD=1.39),Primary Survey (augmented)
+Survey: % Supporting Royalty (actual n=30),83.3%,Primary Survey Apr 2026
+Survey: % Blaming Platforms (actual n=30),33.3%,Primary Survey Apr 2026
+T-test actual n=30 vs 4.0,"t=2.100, p=0.0446",Primary Survey n=30
+Chi-Square (Awareness vs Behavior),"χ²=11.618, p=0.4768",Primary Survey n=100
+Kruskal-Wallis (Score by Awareness),"H=10.553, p=0.0144",Primary Survey n=100
+Mann-Whitney (Highly Aware vs Not Aware),"U=112, p=0.2093",Primary Survey n=100
